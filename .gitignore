@@ -1,0 +1,11 @@
+.DS_Store
+.htaccess
+.travis.yml
+config.php
+index.php
+license.txt
+
+application/cache/*
+application/logs/*
+system/**/*
+user_guide/**/*
