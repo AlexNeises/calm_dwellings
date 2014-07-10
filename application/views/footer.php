@@ -3,7 +3,7 @@
 				<div class="small-12 medium-6 large-6 columns">
 					<div class="row">
 						<div class="small-12 medium-12 large-12 columns">
-							<h1 class="small show-for-small-only">Contact Me</h1>
+							<!-- <h1 class="small show-for-small-only">Contact Me</h1> -->
 							<p>Let me work for you!  Fill out the fields below and I will contact you as soon as possible about an estimate.</p>
 						</div>
 					</div>
@@ -37,7 +37,7 @@
 								</div>
 								<div class="row">
 									<div class="small-12 medium-12 large-12 columns">
-										<input type="text" class="phone" id="phone"/>
+										<input type="text" data-inputmask="'mask': '(999) 999-9999'" id="phone"/>
 									</div>
 								</div>
 							</div>
@@ -49,7 +49,7 @@
 								</div>
 								<div class="row">
 									<div class="small-12 medium-12 large-12 columns">
-										<input type="text" class="zip" id="zip"/>
+										<input type="text" data-inputmask="'mask': '99999'" id="zip"/>
 									</div>
 								</div>
 							</div>
@@ -66,7 +66,7 @@
 						</div>
 						<div class="row">
 							<div class="small-12 medium-12 large-12 columns">
-								<a href="javascript:void(0)" class="button secondary radius expand">Submit</a>
+								<a href="javascript:void(0)" id="form_submit" class="button secondary radius expand">Submit</a>
 							</div>
 						</div>
 					</form>
@@ -83,12 +83,13 @@
 				</div>
 			</div>
 		</section>
-		<script src="<?php print base_url(); ?>/static/foundation/js/foundation.min.js?<?php print time(); ?>"></script>
+		<script src="<?php print base_url(); ?>/static/foundation/javascripts/foundation/foundation.js?<?php print time(); ?>"></script>
+		<script src="<?php print base_url(); ?>/static/foundation/javascripts/foundation/foundation.topbar.js?<?php print time(); ?>"></script>
 		<script>
 			$(document).foundation();
 		</script>
 	</body>
-	<a class="display-for-small-only exit-off-canvas"></a>
+	<!-- <a class="display-for-small-only exit-off-canvas"></a>
 			</div>
-		</div>
+		</div> -->
 </html>

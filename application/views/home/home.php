@@ -7,8 +7,15 @@
 			<section class="full-width content-section">
 				<div class="row">
 					<div class="small-12 medium-12 large-12 columns">
-						<h1 class="odd show-for-medium-up">About Me</h1>
-						<h1 class="odd-small show-for-small-only">About Me</h1>
+						<div class="first_circles">
+							<div class="about_me">
+								<h1 class="odd show-for-medium-up">About Me</h1>
+							</div>
+							<div class="about_me_image">
+
+							</div>
+						</div>
+						<!-- <h1 class="odd-small show-for-small-only">About Me</h1> -->
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, minus molestias dolores blanditiis esse? Quam, accusamus, quo, eum, ipsum voluptatibus aliquam perspiciatis qui porro est sit eligendi suscipit. Expedita, eligendi, laboriosam animi itaque accusantium repudiandae dicta ullam quia ipsum amet quam nesciunt non! Porro, fuga molestiae quaerat accusantium nesciunt omnis.</p>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, minima, quidem repellendus facilis dignissimos laboriosam doloribus sequi tempora iusto facere maxime quasi est ex qui commodi nobis aliquid id eius magnam consectetur. Ut deserunt repellat asperiores dolores odio! Incidunt, esse, distinctio modi ratione facilis iusto tempora saepe nisi nostrum culpa velit eaque quos dolore repellat facere accusamus architecto iure similique numquam autem asperiores error cumque eum. Dolor, minima aspernatur autem eaque ipsa officiis rem! Suscipit, esse, quos. Quos, perferendis, iure nobis modi perspiciatis enim error nulla asperiores dignissimos harum. Dolor, non rem in nobis illum id hic laboriosam blanditiis aliquid!</p>
 					</div>
@@ -43,7 +50,7 @@
 				<div class="row">
 					<div class="small-12 medium-12 large-12 columns">
 						<h1 class="even show-for-medium-up">Better Organization</h1>
-						<h1 class="even-small show-for-small-only">Better Organization</h1>
+						<!-- <h1 class="even-small show-for-small-only">Better Organization</h1> -->
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, minus molestias dolores blanditiis esse? Quam, accusamus, quo, eum, ipsum voluptatibus aliquam perspiciatis qui porro est sit eligendi suscipit. Expedita, eligendi, laboriosam animi itaque accusantium repudiandae dicta ullam quia ipsum amet quam nesciunt non! Porro, fuga molestiae quaerat accusantium nesciunt omnis.</p>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, minima, quidem repellendus facilis dignissimos laboriosam doloribus sequi tempora iusto facere maxime quasi est ex qui commodi nobis aliquid id eius magnam consectetur. Ut deserunt repellat asperiores dolores odio! Incidunt, esse, distinctio modi ratione facilis iusto tempora saepe nisi nostrum culpa velit eaque quos dolore repellat facere accusamus architecto iure similique numquam autem asperiores error cumque eum. Dolor, minima aspernatur autem eaque ipsa officiis rem! Suscipit, esse, quos. Quos, perferendis, iure nobis modi perspiciatis enim error nulla asperiores dignissimos harum. Dolor, non rem in nobis illum id hic laboriosam blanditiis aliquid!</p>
 					</div>
@@ -78,7 +85,7 @@
 				<div class="row">
 					<div class="small-12 medium-12 large-12 columns">
 						<h1 class="odd show-for-medium-up">Simpler Solutions</h1>
-						<h1 class="odd-small show-for-small-only">Simpler Solutions</h1>
+						<!-- <h1 class="odd-small show-for-small-only">Simpler Solutions</h1> -->
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, minus molestias dolores blanditiis esse? Quam, accusamus, quo, eum, ipsum voluptatibus aliquam perspiciatis qui porro est sit eligendi suscipit. Expedita, eligendi, laboriosam animi itaque accusantium repudiandae dicta ullam quia ipsum amet quam nesciunt non! Porro, fuga molestiae quaerat accusantium nesciunt omnis.</p>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, minima, quidem repellendus facilis dignissimos laboriosam doloribus sequi tempora iusto facere maxime quasi est ex qui commodi nobis aliquid id eius magnam consectetur. Ut deserunt repellat asperiores dolores odio! Incidunt, esse, distinctio modi ratione facilis iusto tempora saepe nisi nostrum culpa velit eaque quos dolore repellat facere accusamus architecto iure similique numquam autem asperiores error cumque eum. Dolor, minima aspernatur autem eaque ipsa officiis rem! Suscipit, esse, quos. Quos, perferendis, iure nobis modi perspiciatis enim error nulla asperiores dignissimos harum. Dolor, non rem in nobis illum id hic laboriosam blanditiis aliquid!</p>
 					</div>

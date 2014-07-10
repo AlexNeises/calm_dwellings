@@ -45,6 +45,10 @@ body {
     overflow-y: auto;
 }
 
+.required {
+  background-color: rgba(255,0,0,.5);
+}
+
 .main_top {
     margin-top: 25%;
 }
