@@ -2,10 +2,11 @@
 .htaccess
 .travis.yml
 config.php
+database.php
 index.php
 license.txt
 
+application/config/*
 application/cache/*
 application/logs/*
-system/**/*
 user_guide/**/*
