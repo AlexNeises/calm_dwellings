@@ -83,8 +83,7 @@
 				</div>
 			</div>
 		</section>
-		<script src="<?php print base_url(); ?>/static/foundation/javascripts/foundation/foundation.js?<?php print time(); ?>"></script>
-		<script src="<?php print base_url(); ?>/static/foundation/javascripts/foundation/foundation.topbar.js?<?php print time(); ?>"></script>
+		<script src="<?php print base_url(); ?>/static/foundation/bower_components/foundation/js/foundation.js?<?php print time(); ?>"></script>
 		<script>
 			$(document).foundation();
 		</script>

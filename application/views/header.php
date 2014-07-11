@@ -8,7 +8,7 @@
 	<link rel="icon" href="<?php print base_url(); ?>/static/img/favicon.png" type="image/png">
 	<link rel="stylesheet" href="<?php print base_url(); ?>/static/foundation/stylesheets/app.css">
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:800|Open+Sans:800|Open+Sans:800|Open+Sans:700|Open+Sans:600|Open+Sans:400|Arial:200|Open+Sans:700" rel="stylesheet" type="text/css">
-	<script src="<?php print base_url(); ?>/static/foundation/javascripts/vendor/jquery.js?<?php print time(); ?>"></script>
+	<script src="<?php print base_url(); ?>/static/foundation/bower_components/foundation/js/vendor/jquery.js?<?php print time(); ?>"></script>
 	<script src="<?php print base_url(); ?>/static/plugins/inputmask/js/jquery.inputmask.js?<?php print time(); ?>"></script>
 	<script src="<?php print base_url(); ?>/static/jquery.stellar.js?<?php print time(); ?>"></script>
 	<script src="<?php print base_url(); ?>/static/core.js?<?php print time(); ?>"></script>
